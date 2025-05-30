@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "type": "multiple",
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "HighText Transfer Protocol", "HyperText Transmission Protocol", "HighText Transmission Protocol"],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "id": 2,
+    "type": "truefalse",
+    "question": "Python is a compiled language.",
+    "answer": "False"
+  },
+  {
+    "id": 3,
+    "type": "identification",
+    "question": "What does CPU stand for?",
+    "answer": "Central Processing Unit"
+  }
+]

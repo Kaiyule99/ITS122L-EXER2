@@ -1,0 +1,29 @@
+.navigation-container {
+  display: flex;
+  justify-content: flex-end; /* 👈 this moves buttons to the right */
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.nav-button {
+  padding: 10px 20px;
+  background-color: #555;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.nav-button:hover {
+  background-color: #333;
+}
+
+.nav-button.submit {
+  background-color: #2e7d32;
+}
+
+.nav-button.submit:hover {
+  background-color: #1b5e20;
+}
